@@ -9,3 +9,9 @@
 ---
 ![Flowchart](https://user-images.githubusercontent.com/45350356/163766493-5be2413f-951c-468e-b9d9-22309d7fa750.png)
 ---
+
+### Step02 자료 흐름도
+
+---
+![image](https://user-images.githubusercontent.com/45350356/164382121-23006e01-eaf4-458a-b602-b00880b06c1a.png)
+---
