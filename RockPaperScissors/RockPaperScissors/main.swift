@@ -1,4 +1,3 @@
-//let playButton = RockPaperScissorsGame()
- let playButton = MukjjibbaGame()
+let playButton = RockPaperScissorsGame()
 
 playButton.startGame()

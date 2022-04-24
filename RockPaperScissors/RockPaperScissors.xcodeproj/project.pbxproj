@@ -44,6 +44,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A31149FA2814F41F00C903B1 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				726A19FA280D400400EAF63D /* RockPaperScissorsGame.swift */,
+				A31149DD280ED2E700C903B1 /* MukjjibbaGame.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		A31149FB281501FF00C903B1 /* Eunm */ = {
+			isa = PBXGroup;
+			children = (
+				7298E6332810469300B13B2E /* GameCondition.swift */,
+			);
+			path = Eunm;
+			sourceTree = "<group>";
+		};
 		C7ABA0D4254EA63000B2367D = {
 			isa = PBXGroup;
 			children = (
@@ -64,9 +81,8 @@
 			isa = PBXGroup;
 			children = (
 				C7ABA0E0254EA63000B2367D /* main.swift */,
-				726A19FA280D400400EAF63D /* RockPaperScissorsGame.swift */,
-				A31149DD280ED2E700C903B1 /* MukjjibbaGame.swift */,
-				7298E6332810469300B13B2E /* GameCondition.swift */,
+				A31149FA2814F41F00C903B1 /* Model */,
+				A31149FB281501FF00C903B1 /* Eunm */,
 			);
 			path = RockPaperScissors;
 			sourceTree = "<group>";
